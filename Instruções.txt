@@ -1,0 +1,10 @@
+Trabalho de redes utilizando socket
+Alunos:Rafael Vinicius, Calebe Lemos e Tiago Tamaki 
+
+Como utilizar os comandos:
+- Criar um diretorio: "criar socket" usamos o comando criar mais o nome do diretorio que você deseja criar.
+
+- Remover um diretorio: "remove socket" usamos o comando remove mais o nome do diretorio que você deseja criar.
+
+- Listar os arquivos: "ls" assim como no linux usamos o comando ls para listar os arquivos do diretorio
+
