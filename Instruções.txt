@@ -1,5 +1,6 @@
 Trabalho de redes utilizando socket
 Alunos:Rafael Vinicius, Calebe Lemos e Tiago Tamaki 
+Compilar: python3 servidor.py e python3 cliente.py
 
 Como utilizar os comandos:
 - Criar um diretorio: "criar socket" usamos o comando criar mais o nome do diretorio que você deseja criar.
